@@ -1,0 +1,14 @@
+/******************************************************************************
+
+                           INITIALIZATION OF STRING.
+
+*******************************************************************************/
+
+#include <stdio.h>
+#include <string.h>
+int main()
+{
+    char strname[30]="Spoken-Tutorial";
+    printf("The string is %s\n",strname);
+    return 0;
+}
